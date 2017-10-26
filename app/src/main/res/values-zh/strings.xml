@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CriminalIntent</string>
+    <string name="crime_title_hint">Crime 简短描述</string>
+    <string name="crime_title_label">标题</string>
+    <string name="crime_details_label">细节</string>
+    <string name="crime_solved_label">已解决</string>
+    <string name="date_picker_title">Crime 日期</string>
+    <string name="time_picker_title">Crime 时间</string>
+    <string name="new_crime">新建</string>
+    <string name="show_subTitle">显示子标题</string>
+    <string name="hide_subTitle">隐藏子标题</string>
+    <plurals name="subTitle_plural">
+        <item quantity="one">%1$d crime</item>
+        <item quantity="other">%1$d crimes</item>
+    </plurals>
+    <string name="delete_crime">删除</string>
+    <string name="crime_suspect_text">选择嫌疑人</string>
+    <string name="crime_report_text">发送Crime报告</string>
+    <string name="crime_report">%1$s!
+        这个 Crime 被发现于 %2$s. %3$s, 并且 %4$s
+    </string>
+    <string name="crime_report_solved">这个案例被解决了</string>
+    <string name="crime_report_unsolved">这个案例没被解决</string>
+    <string name="crime_report_no_suspect">没有嫌疑人</string>
+    <string name="crime_report_suspect">嫌疑人是 %s.</string>
+    <string name="crime_report_subject">CriminalIntent Crime 报告</string>
+    <string name="send_report">Send crime report via</string>
+</resources>
